@@ -6,4 +6,4 @@
 -	if the result is not correct or the result was entered later than in 12 seconds, the program does not consider such an exercise and generates another one instead of it.
 -	the child who is trained by the program is familiar with the numbers from 0 to 100 and with operations + and -
 
-test
+
